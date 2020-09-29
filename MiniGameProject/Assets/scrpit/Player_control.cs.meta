@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 8c682cd071f238b4893bcc0d0bc94f29
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - engine_sound: {fileID: 8300000, guid: 58238975660e41f4dbcd0c01243e8144, type: 3}
+  - explosion_sound: {fileID: 8300000, guid: 02abca7bf0d1c9e44ad92ee284de5e69, type: 3}
+  - finish_sound: {fileID: 8300000, guid: b995fc66c477bd742a2128775ff70cb0, type: 3}
+  - choppy_ambient_noise: {fileID: 8300000, guid: 7022d28a1d9ec154090eca92ea030533,
+      type: 3}
+  - explode_particle: {fileID: 8424803196165404117, guid: 33384af7b24a0f14cb7bbf3b795f7a2b,
+      type: 3}
+  - finish_particle: {fileID: 4756558143243472911, guid: d0a6427928c2f074ebf01e9b03889100,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
