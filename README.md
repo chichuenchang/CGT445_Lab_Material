@@ -1,2 +1,10 @@
 # CGT445_Lab_Material
- Lab Projects
+
+Simple Tank Game
+
+Control object with user input
+Projectile instancing, particle effect instancing
+inflicting force to rigid body
+Simple enemy AI (Move straight toward player)
+
+![](trailer.gif)
